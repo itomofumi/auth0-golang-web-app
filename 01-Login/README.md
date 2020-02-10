@@ -54,6 +54,11 @@ This project is licensed under the MIT license. See the [LICENSE](LICENSE.txt) f
 ## Tips
 
 ### ローカルで動かす場合
+
 - mac
+
+[http://localhost:3000/]
+
 sigin in　押下で　~~ no such directory　と表示される場合
-```tmp/``` ```var/```配下に自動でsessionファイルが作られないのでファイル作成してやる
+対象のディレクトリ配下に自動でsessionファイルが作られないので対象ファイルを作成してやる。
+
